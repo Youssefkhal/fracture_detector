@@ -1,4 +1,4 @@
-# Fracture Detection Web App
+# Fracture Detection ML Web App
 
 This is a Flask web application that allows users to upload X-ray images and automatically detect whether a **bone fracture** is present using a trained deep learning model.
 
