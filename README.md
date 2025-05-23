@@ -25,6 +25,7 @@ The goal of this project is to demonstrate the use of a **Convolutional Neural N
 ![WhatsApp Image 2025-05-23 at 21 30 04 (1)](https://github.com/user-attachments/assets/fc46d374-9ab0-4416-9f2c-28acceaedd15)
 ![WhatsApp Image 2025-05-23 at 21 30 48 (1)](https://github.com/user-attachments/assets/ffe5ef78-09d8-458d-aff8-58e583c358f2)
 
+![image](https://github.com/user-attachments/assets/cf9e281c-c4fa-47f9-9d6f-d4ea0e089a02)
 
 
 
